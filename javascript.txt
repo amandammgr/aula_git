@@ -1,1 +1,2 @@
 a turma JavaScript é top!
+A turma JS05 está na sessão de git
